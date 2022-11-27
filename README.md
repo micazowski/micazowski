@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 📫 How to reach me:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="micalav" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/micalav?trk=profile-badge">LinkedIn</a></div>
               
+https://www.instagram.com/micazowski/
