@@ -1,4 +1,4 @@
-👋🏻 Hi, I’m Mica
+👋🏻 Hi, I’m Micaela! You can call me Mica 
 
 👀 I’m interested in Health, Medical, Science and Technology. 
 
