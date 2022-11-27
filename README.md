@@ -1,6 +1,6 @@
 👋🏻 Hi, I’m Mica!
 
-👀 I’m interested in Health, Medical, Science and Technology. 
+👀 I’m interested in Medical, Science, Art, Designing and Technology. 
 
 🌱 I’m currently learning HTML, CSS, Python, and C++.
 
