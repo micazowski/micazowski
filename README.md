@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on creating webpages and learning how to progam.
 
-💞️ I’m looking to collaborate on developing new and intriguing open-source projects, with the community, for the community.
+💞️ I’m looking to collaborate on developing new and intriguing open-source projects, with the community or for the community.
 
 
 <!---
